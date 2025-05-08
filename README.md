@@ -33,8 +33,6 @@ In TypeScript, both `type` and `interface` are used to define the shape of data.
 
 ---
 
----
-
 ### Example: Type with Union (`|`)
 
 ```ts
